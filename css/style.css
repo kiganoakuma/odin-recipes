@@ -1,0 +1,17 @@
+.border {
+    background-color: rgb(236, 214, 199);
+    margin: 15%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#header {
+    text-align: center;
+    padding: 20px;
+}
+
+#header_photo {
+    width: 50%;
+    
+}
